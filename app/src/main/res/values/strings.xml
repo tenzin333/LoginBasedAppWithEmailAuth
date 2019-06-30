@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginWithFirebase</string>
+    <string name="password_field">etnpassword</string>
+</resources>
